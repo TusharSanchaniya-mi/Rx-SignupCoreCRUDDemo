@@ -1,0 +1,6 @@
+framework module Pods_SignupRxExample_SignupRxExampleUITests {
+  umbrella header "Pods-SignupRxExample-SignupRxExampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
